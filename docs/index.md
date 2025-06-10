@@ -267,6 +267,7 @@ ViewComponent is built by over a hundred members of the community, including:
 * [Kicksite](https://kicksite.com/)
 * [Krystal](https://krystal.uk)
 * [Learn To Be](https://www.learntobe.org/) (100+ components)
+* [Launch Scout](https://www.launchscout.com/)
 * [Litmus](https://litmus.engineering/)
 * [Login.gov](https://github.com/18F/identity-idp)
 * [Mission Met Center](https://www.missionmet.com/mission-met-center)
